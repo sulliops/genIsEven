@@ -7,6 +7,6 @@ This program (genIsEven.c), when compiled and run, generates a new C program (`i
 Theoretically, a total of 9.22337203 x 10^18 if/else if statements could be generated. One only needs to change the value of `maxEvenNumber` to whatever maximum they choose.
 
 ## Warning
-Seriously, do not **ever** run the generating code with large values. To process that number could wreck a computer. 
+Seriously, do not **ever** run the generated code with large values. To process that number could wreck a computer. 
 
 I am not liable for any damage caused by running this program.
